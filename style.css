@@ -1,0 +1,17 @@
+.studentdata {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.submit {
+  position: relative;
+  top: 10px;
+  left: 90px;
+}
+.out {
+  position: relative;
+  top: 60px;
+  left: 10px;
+  font-size: larger;
+  font-weight: 300;
+}
